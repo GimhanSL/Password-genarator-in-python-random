@@ -1,4 +1,4 @@
-# Password-genarator
+# Password-genarator-in-python
 This code will generate password to your password length.....#
 
 this code is easy to read and understand
